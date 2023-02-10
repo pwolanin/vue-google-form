@@ -7,7 +7,7 @@
         </h1>
         </h2>
         <router-link to="/feedback" class="button is-primary is-large">Get started</router-link>
-        <p>This is a demo</p>
+        <p>This is a demo for the NJ meetup</p>
       </div>
     </div>
   </section>
